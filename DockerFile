@@ -1,0 +1,14 @@
+FROM gatsbyjs/gatsby:onbuild as build
+
+FROM gatsbyjs/gatsby
+
+#COPY package*.json
+COPY --from=build /app/public /pub
+
+#RUN npm install
+
+#ENV PORT = 8000
+
+#EXPOSE 8000
+
+#CMD ["npm","start"]
