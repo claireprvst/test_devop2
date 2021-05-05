@@ -8,8 +8,7 @@ module.exports = {
         resolve: `gatsby-plugin-s3`,
         options: {
           bucketName: "testdevopawsbucket",
-            protocol: "https",
-            hostname: "",
+
 
         },
       },
