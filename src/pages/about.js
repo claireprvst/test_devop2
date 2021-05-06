@@ -28,13 +28,12 @@ const codeStyles = {
 const aboutPage = () => {
     return (
         <main style={pageStyles}>
-            <title> pute</title>
+            <title> bonjour</title>
             <h1 style={headingStyles}>Yo les putes</h1>
             <p style={paragraphStyles}>
 
-                YOOOO grosse putee
+                Test
                 <br />
-
                 <br />
                 <Link to="/">Go home</Link>.
             </p>
