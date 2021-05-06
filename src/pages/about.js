@@ -25,7 +25,7 @@ const codeStyles = {
 }
 
 // markup
-const NotFoundPage = () => {
+const aboutPage = () => {
     return (
         <main style={pageStyles}>
             <title>Yo</title>
@@ -40,7 +40,7 @@ const NotFoundPage = () => {
                 {process.env.NODE_ENV === "development" ? (
                     <>
                         <br />
-                        Je te vois petit coquin.
+                        Je te vois petit coquin hihi.
                         <br />
                     </>
                 ) : null}
@@ -51,4 +51,4 @@ const NotFoundPage = () => {
     )
 }
 
-export default NotFoundPage
+export default aboutPage()
