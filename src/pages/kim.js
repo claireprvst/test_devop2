@@ -29,7 +29,7 @@ const kimPage = () => {
     return (
         <main style={pageStyles}>
             <title> Kim la pute</title>
-            <h1 style={headingStyles}>Page not found</h1>
+            <h1 style={headingStyles}>Kim la pute</h1>
             <p style={paragraphStyles}>
 
                 YOOOO grosse putee
