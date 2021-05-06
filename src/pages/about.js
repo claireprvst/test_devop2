@@ -32,7 +32,7 @@ const aboutPage = () => {
             <h1 style={headingStyles}>Test</h1>
             <p style={paragraphStyles}>
 
-                j'ai encore encore encore ENCORE et encore changé le texte
+                j'ai encore encore encore ENCORE et encore et encore changé le texte
                 <br />
                 <br />
                 <Link to="/">Go home</Link>.
