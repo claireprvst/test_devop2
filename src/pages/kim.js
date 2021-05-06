@@ -25,10 +25,10 @@ const codeStyles = {
 }
 
 // markup
-const aboutPage = () => {
+const kimPage = () => {
     return (
         <main style={pageStyles}>
-            <title> pute</title>
+            <title> Kim la pute</title>
             <h1 style={headingStyles}>Page not found</h1>
             <p style={paragraphStyles}>
 
@@ -42,4 +42,4 @@ const aboutPage = () => {
     )
 }
 
-export default aboutPage
+export default kimPage()
