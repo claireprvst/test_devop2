@@ -42,4 +42,4 @@ const kimPage = () => {
     )
 }
 
-export default kimPage()
+export default kimPage
