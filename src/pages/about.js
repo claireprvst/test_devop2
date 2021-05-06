@@ -51,4 +51,4 @@ const aboutPage = () => {
     )
 }
 
-export default aboutPage()
+export default aboutPage
