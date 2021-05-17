@@ -28,8 +28,8 @@ const codeStyles = {
 const aboutPage = () => {
     return (
         <main style={pageStyles}>
-            <title> Noémie la pute</title>
-            <h1 style={headingStyles}>Pute</h1>
+            <title> Test</title>
+            <h1 style={headingStyles}>test</h1>
             <p style={paragraphStyles}>
 
 T'es une pute noémie                <br />
