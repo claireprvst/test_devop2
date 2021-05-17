@@ -29,7 +29,7 @@ const aboutPage = () => {
     return (
         <main style={pageStyles}>
             <title> Noémie la pute</title>
-            <h1 style={headingStyles}>Test</h1>
+            <h1 style={headingStyles}>Pute</h1>
             <p style={paragraphStyles}>
 
 T'es une pute noémie                <br />
